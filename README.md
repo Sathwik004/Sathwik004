@@ -1,4 +1,4 @@
-<h2 align="center">Sup I'm Sathwik 👋</h2>
+<h1 align="center">Sup I'm Sathwik 👋</h1>
 
 <!--
 **Sathwik004/Sathwik004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4 align="center">👨🏻‍💻 About</h4>
-- 🌱 An aspiring Android Developer and ML Enthusiast.
+<h3>👨🏻‍💻 About</h3>
+- 🌱 An aspiring Android Developer and ML Enthusiast.</br>
 - 🎓 Studying in MIT-Manipal.
 
-<h4 align="left">Languages and Tools:</h4>
+<h3 align="left">💼 Languages and Tools:</h3>
 <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
