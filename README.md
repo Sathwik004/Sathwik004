@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>👨🏻‍💻 About</h3>
-- 🌱 An aspiring Android Developer and ML Enthusiast.</br>
+- 🌱 An aspiring Android and Full Stack developer.</br>
 - 🎓 Studying in MIT-Manipal.
 
 <h3 align="left">💼 Languages and Tools</h3>
