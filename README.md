@@ -1,13 +1,7 @@
-# &nbsp;
-
-<h1 align="center">👋 Hey there!</h1>
-
-###
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sathwik004.Sathwik004&"  />
+<div>
+<h1>👋 Hey there!</h1>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Sathwik004.Sathwik004&"  />
 </div>
-
-###
 
 ## 🚀 About Me
 👋I'm **Sathwik Bhandarkar** a pre-final year IT student at **MIT Manipal**.
