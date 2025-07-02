@@ -4,7 +4,7 @@
 </div>
 
 ## 🚀 About Me
-👋I'm **Sathwik Bhandarkar** a pre-final year IT student at **MIT Manipal**.
+👋I'm **Sathwik Bhandarkar** a final year IT student at **MIT Manipal**.
 - 🌐 Proficient in **Full-Stack Web Development**, building dynamic and scalable web applications.
 - 📱 Skilled in **Mobile App Development** using Flutter and React Native.
 - 🎨 Experienced in UI/UX design with **Figma** for creating user-friendly interfaces.
