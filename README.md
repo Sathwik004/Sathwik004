@@ -4,7 +4,7 @@
 </div>
 
 ## 🚀 About Me
-👋I'm **Sathwik Bhandarkar** a Software Developer**.
+👋I'm **Sathwik Bhandarkar** a **Software Developer** who loves learning new things.
 - 🌐 Proficient in **Full-Stack Web Development**, building dynamic and scalable web applications.
 - 📱 Skilled in **Mobile App Development** using Flutter and React Native.
 - 🎨 Experienced in UI/UX design with **Figma** for creating user-friendly interfaces.
