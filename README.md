@@ -4,7 +4,7 @@
 </div>
 
 ## 🚀 About Me
-👋I'm **Sathwik Bhandarkar** a final year IT student at **MIT Manipal**.
+👋I'm **Sathwik Bhandarkar** a Software Developer**.
 - 🌐 Proficient in **Full-Stack Web Development**, building dynamic and scalable web applications.
 - 📱 Skilled in **Mobile App Development** using Flutter and React Native.
 - 🎨 Experienced in UI/UX design with **Figma** for creating user-friendly interfaces.
@@ -44,7 +44,7 @@ Here are the tools, languages, and frameworks I'm working with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/notion.png" alt="Notion" width="40" height="40"/>&nbsp;
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>&nbsp;--->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>&nbsp;-
 </div>
 
 
